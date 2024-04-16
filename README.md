@@ -10,7 +10,7 @@ drawLine.
 un número equivalente de incrementos (elegimos 15 de nuevo). La primera línea empieza en la esquina 
 superior izquierda y termina un paso a la derecha, en el borde inferior. Para cada línea sucesiva, avance 
 hacia abajo un incremento en el borde izquierdo, y un incremento a la derecha en el borde inferior.
-Continúe dibujando líneas hasta llegar a la esquina inferior derecha. La figura deberá escalarse a medida que usted cambie el tamaño de la ventana, de manera que los puntos finales siempre toquen los 
+Continúe dibujando líneas hasta llegar a la esquina inferior derecha. La figura deberá escalarse a medida que usted cambie el tamaño de la ventana, de manera que los puntos finales siempre toquen los 
 bordes.
 - Modifique su respuesta en la parte (a) para reflejar el diseño en las cuatro esquinas, como se muestra en 
 la captura de pantalla derecha de la figura 4.21.
