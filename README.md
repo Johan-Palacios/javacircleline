@@ -1,7 +1,7 @@
 # Circle Lines in Java Swing
 
 # Description es
-Boock: Java cómo programar, 10ed - Deitel & Deitel 2016
+Book: Java cómo programar, 10ed - Deitel & Deitel 2016
 Ejercicios del caso de estudio de GUI y gráficos 
 ## Ejercicio 4.2
 La figura 4.21 muestra dos diseños adicionales, creados mediante el uso de ciclos while y de
